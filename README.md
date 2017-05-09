@@ -1,1 +1,1 @@
-This repository includes all the records (about lean construction related papers), retrieved from the Scopus database. If you need further information, do not hesitate to contact Xiaodan Li. Email: gstslxd@126.com
+This repository includes all the records (about lean construction related papers), retrieved from the Scopus database and articles published in peer-reviewed journals in the filed of lean construction. If you need further information, do not hesitate to contact Xiaodan Li. Email: gstslxd@126.com
